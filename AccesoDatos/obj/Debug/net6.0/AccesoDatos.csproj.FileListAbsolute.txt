@@ -1,0 +1,14 @@
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\bin\Debug\net6.0\AccesoDatos.deps.json
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\bin\Debug\net6.0\AccesoDatos.runtimeconfig.json
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\bin\Debug\net6.0\AccesoDatos.dll
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\bin\Debug\net6.0\AccesoDatos.pdb
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\obj\Debug\net6.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\obj\Debug\net6.0\AccesoDatos.dll
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\obj\Debug\net6.0\refint\AccesoDatos.dll
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\obj\Debug\net6.0\AccesoDatos.pdb
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\obj\Debug\net6.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\cmayen\source\repos\ColegioViaro\AccesoDatos\obj\Debug\net6.0\ref\AccesoDatos.dll
